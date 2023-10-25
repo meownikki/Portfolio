@@ -1,0 +1,106 @@
+body{
+    text-align: center;
+    background-color: #EFDBB2;
+}
+
+h1{
+    letter-spacing: 5px;
+    font-size: 30px;
+}
+
+h2{
+    margin-bottom: 5px;
+    font-family: "Amatic SC", "Aptos", sans-serif;
+    letter-spacing: 5px;
+}
+
+article{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*  styles for h1 and h3  */
+.headDarkOlive{
+    font-family: "Love Ya Like A Sister", "Amatic SC", sans-serif;
+    color: darkolivegreen;
+}
+
+img{
+    margin-top: 30px;
+    width: 250px;
+    border-bottom-left-radius: 40px 40px; /* uneven border radius styling */
+    border-top-right-radius: 40px 40px; /* uneven border radius styling */
+}
+
+/* style for quote  */
+.quote{
+    font-style: italic;
+    text-align: center;
+    color: gray;
+}
+
+/* style for the 'unknown' of the quote */
+.unknown{
+    margin-left: 20%;
+}
+
+/* Intro 'About Me' spacing between the quote and paragraph */
+.aboutSpace{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.intro{
+    color: darkslategray;
+}
+
+div.ulAlign {
+    text-align: center;
+}
+
+.olAlign {
+    margin-right: 2%;
+}
+
+.list{
+   display: inline-block;
+   text-align: left;
+}
+
+span, p, li, footer{
+   font-family: "Aptos", "Calibri", sans serif;
+}
+
+a:link {color: blue;}
+a:visited {color: purple;}
+a:hover {color: orangered;}
+a:active {color: green;}
+
+.parCenter{
+    line-height: 5px;
+    text-align: left;
+}
+
+.parAlign{
+    text-align: center;
+    margin-left: 20%;
+    margin-bottom: 2%;
+}
+
+.pinkBack{
+    background-color: rgba(244, 200, 197, 0.8);
+    padding-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 20px;
+}
+
+footer{
+    margin-top: 3%;
+    margin-left: 50%;
+    color: gray;
+}
+
+
+
+
